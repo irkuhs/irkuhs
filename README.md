@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm justa beginner in the web development industry and I'm excited to be on this journey of learning and growth. Here's a little bit about me and what I;m working on.
+I'm just a beginner in the web development industry and I'm excited to be on this journey of learning and growth. Here's a little bit about me and what I;m working on.
 
 ### About me 😄
 
