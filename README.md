@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-Saya manusia
+I'm justa beginner in the web development industry and I'm excited to be on this journey of learning and growth. Here's a little bit about me and what I;m working on.
+
+### About me 😄
+
+I'm Irkuhs, a student in degree Computer Science. I've always had an interest in technology and the way things work, and I decided to pursue in this constantly evolving nature and the endless possibilities it presents. I'm currently in anime service streaming provider which is as anime translator and I'm really commit into it.
 
 <!--
 **irkuhs/irkuhs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
