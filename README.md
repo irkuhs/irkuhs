@@ -4,7 +4,7 @@ I'm just a beginner in the web development industry and I'm excited to be on thi
 
 ### About me 😄
 
-I'm Irkuhs, a student in degree Computer Science. I've always had an interest in technology and the way things work, and I decided to pursue in this constantly evolving nature and the endless possibilities it presents. I'm currently in anime service streaming provider which is as anime translator and I'm really commit into it.
+I'm Irkuhs, a student in degree Computer Science. I've always had an interest in technology and the way things work, and I decided to pursue in this constantly evolving nature and the endless possibilities it presents. Currenlty work as Junior Software Engineer and focuses more on backend side.
 
 <!--
 **irkuhs/irkuhs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
